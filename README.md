@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--
 **Strange0000/Strange0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -72,34 +71,6 @@ I am a final-year **B.Tech Computer Science & Engineering** student at Royal Glo
 </p>
 
 ---
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Strange0000&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strange0000&layout=compact&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strange0000&theme=github_dark&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=8ba0b2" alt="GitHub Streak" />
-</div>
-
----
 <p align="center">
   <i>"I believe in learning by building. From recommendation engines to real-time number plate detection, I transform ideas into working AI-powered applications."</i>
 </p>
-
-<!--
-**Strange0000/Strange0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
