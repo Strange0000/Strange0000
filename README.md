@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=180&section=header&text=Sumit%20Kumar%20Jaiswal&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Machine%20Learning%20Engineer%20|%20Data%20Scientist&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=180&section=header&text=Sumit%20Kumar%20Jaiswal&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Machine%20Learning%20Engineer%20|%20Computer%20Vision&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
 <p align="center">
@@ -23,13 +23,14 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-I am a final-year **B.Tech Computer Science & Engineering** student at Royal Global University, specializing in **Artificial Intelligence, Machine Learning, and Computer Vision**. I am passionate about transforming raw data into actionable insights and building scalable AI models that solve real-world problems.
+I'm a **B.Tech Computer Science & Engineering graduate (2026)** from Royal Global University, Guwahati, focused on **Machine Learning and Computer Vision**. I like taking a model from a notebook to a working system, including running it on edge hardware.
 
-- 🔭 **Current Focus:** Advanced Deep Learning architectures, Computer Vision pipelines, and Edge AI.
-- 💼 **Experience:** Developed a production-grade Convolutional Neural Network (CNN) during my internship at **NIELIT** that detects brain tumors in MRI scans with **96-98% accuracy**.
-- 🌱 **Learning:** Continuously exploring MLOps, Model Optimization for Edge Devices (Raspberry Pi), and Natural Language Processing.
+- 🔭 **Current focus:** Computer Vision pipelines, edge inference, and deep learning fundamentals with PyTorch
+- 💼 **Experience:** Two internships at **NIELIT Guwahati**: Python for AI/ML (a CNN-based brain tumor MRI classifier in TensorFlow/Keras) and applied computer vision
+- 🌱 **Learning:** PyTorch (via Karpathy's makemore / nanoGPT series), MLOps, and model optimization for edge devices
+- 📍 **Open to:** ML Engineer, Computer Vision Engineer, AI Engineer, Data Analyst, and SDE-1 roles across India. Happy to relocate.
 
 ---
 
@@ -37,12 +38,14 @@ I am a final-year **B.Tech Computer Science & Engineering** student at Royal Glo
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Automatic Number Plate Detection](https://github.com/Strange0000/Automatic-Number-Plate-Detection-ANPR-)** | An edge-optimized ANPR system designed for Raspberry Pi. Features real-time traffic monitoring and logging via a custom web dashboard. | `Python`, `YOLOv8`, `OpenCV`, `MobileNet` |
-| **[WhatsApp Chat Analyser](https://github.com/Strange0000/Whatsapp-Chat-Analyser)** | Analyzed 100,000+ messages using NLP. Built interactive visualizations showing sentiment analysis and emoji usage patterns. | `Python`, `NLP`, `Streamlit`, `Pandas` |
-| **[Movie Recommendation Engine](https://github.com/Strange0000/Movie-Recommendation-System)** | Content-based recommendation system using cosine similarity across 50,000+ movies. Integrated with TMDb API. | `Machine Learning`, `Scikit-Learn`, `API` |
-| **[TensorFlow Image Classification](https://github.com/Strange0000/Image-Classification-using-Tensorflow)** | Trained custom CNN models for multi-class visual recognition and deployed them via Streamlit for interactive use. | `TensorFlow`, `Keras`, `OpenCV` |
+| **[Automatic Number Plate Detection](https://github.com/Strange0000/Automatic-Number-Plate-Detection-ANPR-)** | Edge-optimized ANPR system trained on 31,300 images: **99.02% precision**, **97.57% mAP@0.5**, and **107.5 FPS** with ONNX on a Raspberry Pi 4. Logs traffic through a custom web dashboard. | `YOLOv8`, `OpenCV`, `PaddleOCR`, `ONNX`, `Python` |
+| **Brain Tumor MRI Classifier** | CNN trained on 2,065 augmented MRI images (70/15/15 split). **88.7% test accuracy**, **0.88 F1**. Built during my NIELIT internship. | `TensorFlow`, `Keras`, `OpenCV` |
+| **Tens (Capture the Tens)** | Real-time multiplayer card game with ELO-based ranking, built as a full-stack app with a mobile client. | `Node.js`, `Express`, `Socket.IO`, `Redis`, `MongoDB`, `React Native` |
+| **[WhatsApp Chat Analyser](https://github.com/Strange0000/Whatsapp-Chat-Analyser)** | Analyzed 100,000+ messages using NLP. Interactive visualizations for sentiment and emoji usage. | `Python`, `NLP`, `Streamlit`, `Pandas` |
+| **[Movie Recommendation Engine](https://github.com/Strange0000/Movie-Recommendation-System)** | Content-based recommender using cosine similarity across 50,000+ movies, integrated with the TMDb API. | `Scikit-Learn`, `Pandas`, `API` |
+| **[TensorFlow Image Classification](https://github.com/Strange0000/Image-Classification-using-Tensorflow)** | Custom CNN models for multi-class image recognition, deployed through Streamlit. | `TensorFlow`, `Keras`, `OpenCV` |
 
-*(Explore my full interactive portfolio here: [strange0000.github.io/portfolio](https://strange0000.github.io/portfolio/))*
+*(More on my full portfolio: [strange0000.github.io/portfolio](https://strange0000.github.io/portfolio/))*
 
 ---
 
@@ -56,24 +59,40 @@ I am a final-year **B.Tech Computer Science & Engineering** student at Royal Glo
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-### **Machine Learning & Data Science**
+### **Machine Learning & Computer Vision**
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
-### **Tools & Deployment**
+*Also: YOLOv8, PaddleOCR, edge inference on Raspberry Pi. Currently learning PyTorch.*
+
+### **Backend, Web & Tools**
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
 ---
+
+## 📜 Certifications
+
+- Applied Data Science with Python, Simplilearn SkillUp (July 2026)
+- Mathematics for Data Science, Simplilearn SkillUp
+
+---
 <p align="center">
-  <i>"I believe in learning by building. From recommendation engines to real-time number plate detection, I transform ideas into working AI-powered applications."</i>
+  <i>"I believe in learning by building. From recommendation engines to real-time number plate detection on a Raspberry Pi, I turn ideas into working AI-powered applications."</i>
 </p>
