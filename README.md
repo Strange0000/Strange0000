@@ -40,7 +40,6 @@ I'm a **B.Tech Computer Science & Engineering graduate (2026)** from Royal Globa
 |---------|-------------|------------|
 | **[Automatic Number Plate Detection](https://github.com/Strange0000/Automatic-Number-Plate-Detection-ANPR-)** | Edge-optimized ANPR system trained on 31,300 images: **99.02% precision**, **97.57% mAP@0.5**, and **107.5 FPS** with ONNX on a Raspberry Pi 4. Logs traffic through a custom web dashboard. | `YOLOv8`, `OpenCV`, `PaddleOCR`, `ONNX`, `Python` |
 | **Brain Tumor MRI Classifier** | CNN trained on 2,065 augmented MRI images (70/15/15 split). **88.7% test accuracy**, **0.88 F1**. Built during my NIELIT internship. | `TensorFlow`, `Keras`, `OpenCV` |
-| **Tens (Capture the Tens)** | Real-time multiplayer card game with ELO-based ranking, built as a full-stack app with a mobile client. | `Node.js`, `Express`, `Socket.IO`, `Redis`, `MongoDB`, `React Native` |
 | **[WhatsApp Chat Analyser](https://github.com/Strange0000/Whatsapp-Chat-Analyser)** | Analyzed 100,000+ messages using NLP. Interactive visualizations for sentiment and emoji usage. | `Python`, `NLP`, `Streamlit`, `Pandas` |
 | **[Movie Recommendation Engine](https://github.com/Strange0000/Movie-Recommendation-System)** | Content-based recommender using cosine similarity across 50,000+ movies, integrated with the TMDb API. | `Scikit-Learn`, `Pandas`, `API` |
 | **[TensorFlow Image Classification](https://github.com/Strange0000/Image-Classification-using-Tensorflow)** | Custom CNN models for multi-class image recognition, deployed through Streamlit. | `TensorFlow`, `Keras`, `OpenCV` |
@@ -71,13 +70,8 @@ I'm a **B.Tech Computer Science & Engineering graduate (2026)** from Royal Globa
 
 *Also: YOLOv8, PaddleOCR, edge inference on Raspberry Pi. Currently learning PyTorch.*
 
-### **Backend, Web & Tools**
+### **Tools & Deployment**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
